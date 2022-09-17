@@ -15,6 +15,10 @@
 - CSS
 - GIT e GitHub
 
-## Contato 💗
+## Aprendizado
+    Aprendi a como fazer commit e dar deploy do meu projeto, e tambem aprofundar mais ainda os conhecimento em HTML e CSS.
+
+
+## Contato 💗 
 
 luanbrendonsm@gmail.com
