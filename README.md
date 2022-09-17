@@ -6,7 +6,7 @@
 
     Projeto construído do evento Next Level Week da Rocketseat.
 
-    [🔗Clique aqui para acessar](https://luanbrendon.github.io/nlw-esports-explore/)
+    ![🔗Clique aqui para acessar] (https://luanbrendon.github.io/nlw-esports-explore/)
 
 
 ## 🖥 Tecnologias
